@@ -12,11 +12,11 @@ handlers:
   static_files: public/archives/index.html
   upload: public/archives/index.html
 
-- url: /about
-  static_files: public/about/index.html
+- url: /geek-team
+  static_files: public/geek-team/index.html
   upload: public/about/index.html
 
-- url: /projects
+- url: /categories/Du-lich
   static_files: public/story/index.html
   upload: public/story/index.html
 
