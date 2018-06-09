@@ -8,17 +8,13 @@ handlers:
   static_files: public/index.html
   upload: public/index.html
 
-- url: /archives
+- url: /Nhat-ban
   static_files: public/archives/index.html
   upload: public/archives/index.html
 
-- url: /geek-team
+- url: /Geek-team
   static_files: public/geek-team/index.html
   upload: public/about/index.html
-
-#- url: /categories/Du-lich
-#  static_files: public/story/index.html
-#  upload: public/story/index.html
 
 - url: /(.*)/$
   static_files: public/\1/index.html
