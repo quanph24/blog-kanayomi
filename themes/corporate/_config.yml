@@ -1,0 +1,45 @@
+# Header Menu
+menu:
+  KanaYomi: /
+  Nhật Bản: /Nhat-ban/
+  Du lịch: /categories/Du-lich/ # can set archive-dir in root config to custom value
+  Tin tức: /categories/Tin-tuc/
+  Thủ tục: /categories/Thu-tuc/
+  Về chúng tôi: /geek-team/
+   
+rss: /atom.xml
+
+# Content
+excerpt_link: Read More
+fancybox: true # whether or not to load the fancybox library
+
+# Integrations
+disqus_shortname: 
+google_analytics:
+swiftype_install_key: 
+
+# Social
+social:
+  github: https://github.com/Rolbackse
+  twitter: https://twitter.com/Kana_Yomi
+  facebook: https://www.facebook.com/KanaYomi-142121986461732/
+  rss: atom.xml
+  linkedin: https://www.facebook.com/KanaYomi-142121986461732/
+  stackoverflow: https://www.facebook.com/KanaYomi-142121986461732/
+
+# Miscellaneous
+color_scheme: red   # options: blue, gray, green, orange, red, turquoise
+favicon: /favicon.ico # path from root of hexo site
+twitter_widget_id: "678830341331820544" # as a string, from https://twitter.com/settings/widgets
+twitter_username: computerlab_ # twitter username without the @
+default_author: Anonymous
+
+about: GeekTeam là một nhóm các thành viên đam mê công nghệ, mong muốn được học hỏi và cống hiến cho cộng đồng. <br><br> GeekTeam được thành lập năm 2018 tại thành phố Tokyo, Japan.
+phone: +(81)80 6810 6157
+email: geekteam.vn@gmail.com
+address_1: Japan, Kanagawa Prefecture, Kawasaki-shi, Kawasaki-ku
+address_2: 24-6 Mukaichou, No.302
+address_3: "https://kanayomi.com/"
+skype: onlylove_forever_1990
+lat: 40.715911 
+long: -73.962147
